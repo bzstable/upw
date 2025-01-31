@@ -1,0 +1,44 @@
+type_a:
+  title: "Type A - Processing Units"
+  table1_title: "Device Information"
+  table1_headers: ["ID", "Name", "Description"]
+  table2_title: "Parameters"
+  table2_headers: ["Status", "Priority", "Last Updated"]
+  table3_title: "Additional Information"
+  table3_headers: ["Field", "Value"]
+
+type_b:
+  title: "Type B - Component Specifications"
+  table1_title: "Component Details"
+  table1_headers: ["Component ID", "Installation Date"]
+  table2_title: "Technical Specifications"
+  table2_headers: ["Specification", "Value"]
+  table3_title: "Manufacturer Information"
+  table3_headers: ["Field", "Value"]
+
+type_c:
+  title: "Type C - Transaction Details"
+  table1_title: "Transaction Overview"
+  table1_headers: ["Transaction ID", "Amount", "Currency"]
+  table2_title: "Party Information"
+  table2_headers: ["Party Number", "Name"]
+  table3_title: "Status"
+  table3_headers: ["Field", "Value"]
+
+type_d:
+  title: "Type D - Test Results"
+  table1_title: "Test Information"
+  table1_headers: ["Test ID", "Environment"]
+  table2_title: "Metrics"
+  table2_headers: ["Metric", "Value"]
+  table3_title: "Additional Details"
+  table3_headers: ["Field", "Value"]
+
+type_e:
+  title: "Type E - Employee Information"
+  table1_title: "Employee Details"
+  table1_headers: ["Employee ID", "Department", "Role"]
+  table2_title: "Project Information"
+  table2_headers: ["Project Number", "Project Name"]
+  table3_title: "Additional Information"
+  table3_headers: ["Field", "Value"] 
